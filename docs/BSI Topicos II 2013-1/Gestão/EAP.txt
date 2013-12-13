@@ -1,0 +1,63 @@
+Requisitos:
+
+Elicitação e análise de Requisitos
+	Telas de cadastro básicos
+		Curso
+		Disciplina
+		Pessoa
+		Associação Pessoa a Disciplina
+	Tela de gestão de Afazeres Disciplinares
+		Associação com disciplina e alunos
+		Acompanhamento dos afazeres
+	Tela de gestão de Casos acadêmicos
+		Associação com afazeres disciplinares
+	Tela de gestão de Desafios reais
+		Associação com Desafios reais e afazeres
+	Tela de visualização de Afazeres, Casos acadêmicos e Desafios Reais
+	
+Projeto:
+	Arquitetura do sistema
+	Criação dos casos de uso
+		Telas de cadastro básicos
+			Curso
+			Disciplina
+			Pessoa
+			Associação Pessoa a Disciplina
+		Tela de gestão de Afazeres Disciplinares
+			Associação com disciplina e alunos
+			Acompanhamento dos afazeres
+		Tela de gestão de Casos acadêmicos
+			Associação com afazeres disciplinares
+		Tela de gestão de Desafios reais
+			Associação com Desafios reais e afazeres
+		Tela de visualização de Afazeres, Casos acadêmicos e Desafios Reais
+
+Implementação e Verificação
+	Telas de cadastro básicos
+		Curso
+		Disciplina
+		Pessoa
+		Associação Pessoa a Disciplina
+	Tela de gestão de Afazeres Disciplinares
+		Associação com disciplina e alunos
+		Acompanhamento dos afazeres
+	Tela de gestão de Casos acadêmicos
+		Associação com afazeres disciplinares
+	Tela de gestão de Desafios reais
+		Associação com Desafios reais e afazeres
+	Tela de visualização de Afazeres, Casos acadêmicos e Desafios Reais
+		
+Validação
+	Telas de cadastro básicos
+		Curso
+		Disciplina
+		Pessoa
+		Associação Pessoa a Disciplina
+	Tela de gestão de Afazeres Disciplinares
+		Associação com disciplina e alunos
+		Acompanhamento dos afazeres
+	Tela de gestão de Casos acadêmicos
+		Associação com afazeres disciplinares
+	Tela de gestão de Desafios reais
+		Associação com Desafios reais e afazeres
+	Tela de visualização de Afazeres, Casos acadêmicos e Desafios Reais

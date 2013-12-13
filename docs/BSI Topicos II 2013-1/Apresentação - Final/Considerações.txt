@@ -1,0 +1,11 @@
+_- Considerações feitas pelo Prof. Carlos Eugênio -_
+
+
+
+1. Criar perfil de administrador que irá criar o perfil de coordenador;
+
+
+2. A visualização das atividades presente no calendário está muito "pesada". Propor outra forma de visualzação onde será possível ver apenas data inicio e data final das atividades;
+
+
+3. Descrever sobre o componente js que possivelmente será usado para fazer o mapa de atividades.
